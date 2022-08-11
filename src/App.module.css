@@ -1,9 +1,26 @@
 .app{
-    height: 100px;
-    background-color: red;
+    height: 300px;
+    
 }
 .button{
-    width: 200px;
-    height: 100px;
-    background-color: green;
+    width: 132px;
+    height: 56px;
+    background-color: #2231AA;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 18px;
+    margin:  10px;
+    color: #fff;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+.greybtn{
+    background-color: #E8E8E8;
+    color:#000;
+}
+.whitebtn{
+    color:#FD3419;
+    background-color:  #E5E5E5;
 }
